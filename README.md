@@ -91,6 +91,8 @@
 
 # Desafio AWS - Autenticação, Autorização e Gerenciamento de Usuários
 
+## Abaixo enuciado original na plataforma [dio.me](https://www.dio.me)
+
 ## Descrição do Desafio
 
 Ofereça autenticação, autorização e gerenciamento de usuários para suas aplicações Web e Mobile com o Amazon Cognito. Esse serviço, totalmente gerenciado pela AWS, suporta os principais mecanismos de segurança do mercado, além da integração com terceiros, como Facebook, Google, Apple ou a própria Amazon. Nesse sentido, nosso Tech Hero apresenta os passos para tornar suas APIs mais seguras por meio dessa solução.
@@ -115,7 +117,7 @@ Neste desafio, você irá aprender ao mesmo tempo que desenvolve algo prático p
 6. Utilize o POSTMAN ou outra ferramenta de sua preferência para testar a API e verificar a autenticação e autorização dos usuários.
 7. Implemente um autorizador do Amazon Cognito para garantir que apenas usuários autenticados tenham acesso à API REST no Amazon API Gateway.
 
-## ----------------------------------------------------------------------------------------------
+## --------------------------------------FIM-----------------------------------------------------
 
 ## Recursos Adicionais
 
